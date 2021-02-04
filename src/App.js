@@ -158,7 +158,7 @@ class App extends React.Component {
 
             <FormGroup>
               <label>   almacenmaiento: </label>
-              <input className="form-control" name="almacenmaiento" type="text" onChange={this.handleChange} value={this.state.form.almacenamiento} />
+              <input className="form-control" name="almacenamiento" type="text" onChange={this.handleChange} value={this.state.form.almacenamiento} />
             </FormGroup>
             <FormGroup>
               <label>   ram: </label>
